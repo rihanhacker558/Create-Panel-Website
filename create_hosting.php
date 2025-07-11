@@ -7,8 +7,8 @@ if (!isset($_SESSION['user'])) {
 ?>
     
 <?php
-$panel_url = "https://fino.hyga.site";
-$api_key = "ptla_w6OvbdUj3bEpeqoIZQXQDglq90LPiyiYv4KGTetyzZI";
+$panel_url = "https://panelc.zteam.biz.id";
+$api_key = "ptla_hQyPNi2R0GdZ4c3ApQyjzt5WmYmxg8IHLr8t9kCrxA0";
 $location_id = 1;
 $nest_id = 5;
 $egg_linux = 16;
